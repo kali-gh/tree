@@ -29,7 +29,6 @@ Predicted output - depth 2
 
 
 
-
 ### Usage
 ```python
 pip install -r requirements.txt
